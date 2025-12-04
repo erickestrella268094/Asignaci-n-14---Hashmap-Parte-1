@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/PC/Documents/NetBeansProjects/HashMap/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/PC/Documents/NetBeansProjects/HashMap/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HashMap 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'HashMap 1.0-SNAPSHOT API'
+com.mycompany.hashmap
+C:\Users\PC\Documents\NetBeansProjects\HashMap\src\main\java = 1764804405355
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\allclasses-index.html = 1764812041862
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\allpackages-index.html = 1764812041866
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\element-list = 1764812041811
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\help-doc.html = 1764812041898
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\index-all.html = 1764812041885
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\index.html = 1764812041890
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\member-search-index.js = 1764812041872
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\module-search-index.js = 1764812041867
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\overview-tree.html = 1764812041851
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\package-search-index.js = 1764812041869
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\search.html = 1764812041888
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\tag-search-index.js = 1764812041874
+C:\Users\PC\Documents\NetBeansProjects\HashMap\target\reports\apidocs\type-search-index.js = 1764812041870
